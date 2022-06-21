@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="StockManagementSystems.Site" %>
+
+<link href="Styles.css" rel="stylesheet" runat="server" />
+<style>
+    .heading {
+        color: #181D31;
+    font-size: 50px;
+    font-family:sans-serif;
+    text-decoration: underline;
+    }
+    header {
+    color:azure;
+    background-color:#678983;
+    width: 100%;
+    font-size:25px;
+    font-family:sans-serif;
+}
+    /*.foot {
+    background-color:#678983;
+    font-size:25px;
+    color: black;
+    height: 200px;
+    margin-top: -200px;
+    width: 100%;
+    font-family:sans-serif;
+    }*/
+</style>
+
+<!DOCTYPE html>
+<html>
+<head id="Head1" runat="server">
+    <title>Master Page</title>
+</head>
+    <body>
+         <form id="form1" runat="server">
+        <center>
+            <h1 class="heading">
+                STOCK MANAGEMENT
+            </h1>
+            <div class="banner">
+                <header>
+                 <a href="Dashboard.aspx" class="strip">Dashboard</a>&nbsp |&nbsp 
+                 <a href="Ad_Item.aspx" class="strip">Item Panel</a>&nbsp |&nbsp 
+                 <a href="CustomerDetail.aspx" class="strip">Customer Detail</a>&nbsp |&nbsp 
+                 <a href="Bill.aspx" class="strip">Bill</a>&nbsp |&nbsp 
+                 <a href="Logout.aspx" class="strip">Log Out</a>&nbsp |&nbsp 
+                    </header>
+                </div>
+                <asp:ContentPlaceHolder ID="content1" runat="server">
+
+                </asp:ContentPlaceHolder>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                </asp:ContentPlaceHolder>
+                <div>
+                    <br />
+                    <%--<br />
+                    <br />
+                    <br />
+                    <br />--%>
+
+                   <footer>
+                &nbsp;<asp:Label ID="foot" runat="server" Text="&copy Made By Eshika Goyal" CssClass="foot" ForeColor="Black" BackColor="#F0E9D2" ></asp:Label>
+                <br />
+                </footer>
+                    
+            </div>
+        </center>
+
+    </form>
+    </body>
+   
+</html>

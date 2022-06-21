@@ -1,0 +1,120 @@
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.pdb
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\Antlr3.Runtime.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\EntityFramework.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\System.Web.Optimization.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\System.Web.Providers.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\WebGrease.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\EntityFramework.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.pdb
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.pdb
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Antlr3.Runtime.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\EntityFramework.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\System.Web.Optimization.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\System.Web.Providers.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\WebGrease.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\EntityFramework.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.pdb
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.pdb
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Antlr3.Runtime.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\EntityFramework.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\System.Web.Optimization.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\System.Web.Providers.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\WebGrease.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\EntityFramework.xml
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.xml
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.pdb
+C:\Users\dell\OneDrive\Desktop\College Documents\Extra curricular\Projects\VS2012\Project\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\StockManagementSystems.pdb
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\Antlr3.Runtime.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\EntityFramework.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\System.Web.Optimization.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\System.Web.Providers.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\WebGrease.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\EntityFramework.xml
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.Core.xml
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.csprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.dll
+C:\Users\dell\OneDrive\Desktop\Internship\StockManagementSystems\StockManagementSystems\obj\Debug\StockManagementSystems.pdb
